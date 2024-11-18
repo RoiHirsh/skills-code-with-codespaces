@@ -10,5 +10,6 @@
     "vscode": {
       "extensions": ["GitHub.copilot"]
     }
-}
+},
+  "postCreateCommand": "echo '# Welcome to your Codespace!' >> codespace.md"
 }
